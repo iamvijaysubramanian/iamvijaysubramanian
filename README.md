@@ -1,4 +1,4 @@
-![mern-gif-logo](https://user-images.githubusercontent.com/108535368/233615497-988429d8-cf4a-4d74-a72c-bfa1f6e1ca6c.gif)
+//![mern-gif-logo](https://user-images.githubusercontent.com/108535368/233615497-988429d8-cf4a-4d74-a72c-bfa1f6e1ca6c.gif)//
 
 
 
